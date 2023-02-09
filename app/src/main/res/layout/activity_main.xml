@@ -10,7 +10,7 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="470dp"
+        android:layout_height="461dp"
         android:src="@drawable/thecheezery"
         android:scaleType="fitXY"
         />
@@ -29,8 +29,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="15sp"
-        android:fontFamily="sans-serif-ligth"
+        android:fontFamily="sans-serif-light"
         android:textStyle="italic"
         android:textColor="@color/dusty_white"
         android:text="@string/welcome_description"
@@ -40,7 +39,7 @@
 
     <Button
         android:layout_width="219dp"
-        android:layout_height="40dp"
+        android:layout_height="wrap_content"
         android:text="@string/button_start"
         android:background="@drawable/round_button"
         android:textColor="@color/white"

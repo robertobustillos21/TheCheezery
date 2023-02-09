@@ -27,7 +27,7 @@
         />
 
     <EditText
-        android:id="@+id/lastname_input"
+        android:id="@+id/last_name_input"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/last_name"
@@ -49,7 +49,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/password"
-        android:inputType="text"
+        android:inputType="textPassword"
         android:layout_marginTop="@dimen/input_margin"
         />
 
