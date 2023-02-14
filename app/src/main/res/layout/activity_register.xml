@@ -13,7 +13,7 @@
         android:layout_height="65dp"
         android:src="@drawable/hello"
         android:layout_marginTop="40dp"
-        android:layout_martingBottom="40dp"
+        android:layout_marginBottom="40dp"
         android:layout_gravity="center_horizontal"
         />
 
